@@ -1,0 +1,443 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 6891726600,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User launch the browser",
+            "match": {
+              "location": "com.stepdefinition1.Vmmapstepdefinition.user_launch_the_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 6012288300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User can navigate the vmmap apllication URL",
+            "match": {
+              "location": "com.stepdefinition1.Vmmapstepdefinition.user_can_navigate_the_vmmap_apllication_url()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-04-15T13:58:08.531Z",
+        "line": 7,
+        "name": "This is the login process for existing user",
+        "description": "",
+        "id": "this-is-the-vmmap-appliction-used-to-verify-the-login-process;this-is-the-login-process-for-existing-user",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 228058000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user clicks the signin button",
+            "match": {
+              "location": "com.stepdefinition1.Vmmapstepdefinition.user_clicks_the_signin_button()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 385094900,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user can enter the Emailaddress1",
+            "match": {
+              "location": "com.stepdefinition1.Vmmapstepdefinition.user_can_enter_the_emailaddress1()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 306062300,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user can enter the Password1",
+            "match": {
+              "location": "com.stepdefinition1.Vmmapstepdefinition.user_can_enter_the_password1()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 142034200,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user clicks the login button",
+            "match": {
+              "location": "com.stepdefinition1.Vmmapstepdefinition.user_clicks_the_login_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1146283100,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user should be logged successfuly",
+            "match": {
+              "location": "com.stepdefinition1.Vmmapstepdefinition.user_should_be_logged_successfuly()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3131787400,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User launch the browser",
+            "match": {
+              "location": "com.stepdefinition1.Vmmapstepdefinition.user_launch_the_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4614865000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User can navigate the vmmap apllication URL",
+            "match": {
+              "location": "com.stepdefinition1.Vmmapstepdefinition.user_can_navigate_the_vmmap_apllication_url()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-04-15T13:58:23.953Z",
+        "line": 14,
+        "name": "This is the forget password processs for existing user",
+        "description": "",
+        "id": "this-is-the-vmmap-appliction-used-to-verify-the-login-process;this-is-the-forget-password-processs-for-existing-user",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 204050800,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "User can click the SighIn button",
+            "match": {
+              "location": "com.stepdefinition1.Vmmapstepdefinition.user_can_click_the_sigh_in_button()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 354090200,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "User can enter the Email_address",
+            "match": {
+              "location": "com.stepdefinition1.Vmmapstepdefinition.user_can_enter_the_email_address()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 160041000,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "User clicks the forgetpassword button",
+            "match": {
+              "location": "com.stepdefinition1.Vmmapstepdefinition.user_clicks_the_forgetpassword_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 25674043600,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "User can enter the Login password",
+            "match": {
+              "location": "com.stepdefinition1.Vmmapstepdefinition.user_can_enter_the_login_password()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 736182300,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user clicks the change button",
+            "match": {
+              "location": "com.stepdefinition1.Vmmapstepdefinition.user_clicks_the_change_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3482884700,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "user can enter the new password",
+            "match": {
+              "location": "com.stepdefinition1.Vmmapstepdefinition.user_can_enter_the_new_password()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1492367800,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "user clicks the Login_button1",
+            "match": {
+              "location": "com.stepdefinition1.Vmmapstepdefinition.user_clicks_the_login_button1()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "This is the vmmap appliction used to verify the login process",
+    "description": "",
+    "id": "this-is-the-vmmap-appliction-used-to-verify-the-login-process",
+    "keyword": "Feature",
+    "uri": "file:src/main/java/Feature/Loginpage.feature",
+    "tags": []
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 2864752200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User launch the browser",
+            "match": {
+              "location": "com.stepdefinition1.Vmmapstepdefinition.user_launch_the_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3803708600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User can navigate the vmmap apllication URL",
+            "match": {
+              "location": "com.stepdefinition1.Vmmapstepdefinition.user_can_navigate_the_vmmap_apllication_url()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-04-15T13:59:03.890Z",
+        "line": 8,
+        "name": "This is the registration process for new user",
+        "description": "",
+        "id": "this-is-the-vmmap-appliction-used-to-verify-the-login-process;this-is-the-registration-process-for-new-user",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 332086100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "New user click the signup button",
+            "match": {
+              "location": "com.stepdefinition1.Vmmapstepdefinition.new_user_click_the_signup_button()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 393100700,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User can enter the FullName",
+            "match": {
+              "location": "com.stepdefinition1.Vmmapstepdefinition.user_can_enter_the_full_name()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 484124900,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "User can enter the Emailaddress",
+            "match": {
+              "location": "com.stepdefinition1.Vmmapstepdefinition.user_can_enter_the_emailaddress()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 255063200,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "User can enter the Mobile_No",
+            "match": {
+              "location": "com.stepdefinition1.Vmmapstepdefinition.user_can_enter_the_mobile_no()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 282070900,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "User can enter the Password",
+            "match": {
+              "location": "com.stepdefinition1.Vmmapstepdefinition.user_can_enter_the_password()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 280065300,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "User can enter the confirmpassword",
+            "match": {
+              "location": "com.stepdefinition1.Vmmapstepdefinition.user_can_enter_the_confirmpassword()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 165041100,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "User can agree the privacy policy and terms and conditions",
+            "match": {
+              "location": "com.stepdefinition1.Vmmapstepdefinition.user_can_agree_the_privacy_policy_and_terms_and_conditions()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 133031000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Mark the signup option",
+            "match": {
+              "location": "com.stepdefinition1.Vmmapstepdefinition.mark_the_signup_option()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 146037000,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "user can clicks the Register button",
+            "match": {
+              "location": "com.stepdefinition1.Vmmapstepdefinition.user_can_clicks_the_register_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "error_message": "org.openqa.selenium.ElementNotInteractableException: element not interactable\n  (Session info: chrome\u003d123.0.6312.122)\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027DESKTOP-DOG046A\u0027, ip: \u0027192.168.241.248\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002717.0.7\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.122, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\\Users\\Lenovo\\AppData\\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49540}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: 2dc29699feacfa48d6d0a23ad32f028a\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)\r\n\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)\r\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:106)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)\r\n\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:568)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)\r\n\tat jdk.proxy2/jdk.proxy2.$Proxy31.sendKeys(Unknown Source)\r\n\tat com.Base.BaseClass.Input(BaseClass.java:89)\r\n\tat com.stepdefinition1.Vmmapstepdefinition.enter_otp_number(Vmmapstepdefinition.java:127)\r\n\tat ✽.enter OTP number(file:///C:/Users/Lenovo/eclipse-workspace/new%20workspace/VmmapProject/src/main/java/Feature/Register.feature:18)\r\n",
+              "duration": 15199018800,
+              "status": "failed"
+            },
+            "line": 18,
+            "name": "enter OTP number",
+            "match": {
+              "location": "com.stepdefinition1.Vmmapstepdefinition.enter_otp_number()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 19,
+            "name": "user can verify the otp",
+            "match": {
+              "location": "com.stepdefinition1.Vmmapstepdefinition.user_can_verify_the_otp()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 20,
+            "name": "New user should be register successfully.",
+            "match": {
+              "location": "com.stepdefinition1.Vmmapstepdefinition.new_user_should_be_register_successfully()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "This is the vmmap appliction used to verify the login process",
+    "description": "",
+    "id": "this-is-the-vmmap-appliction-used-to-verify-the-login-process",
+    "keyword": "Feature",
+    "uri": "file:src/main/java/Feature/Register.feature",
+    "tags": []
+  }
+]
